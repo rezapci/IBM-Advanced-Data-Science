@@ -1,4 +1,4 @@
-<h1 align="center">Advanced Machine Learning and Signal Processing</h1>
+<h1 align="center">🎓 Advanced Machine Learning and Signal Processing</h1>
 
 
 <p align="center">
