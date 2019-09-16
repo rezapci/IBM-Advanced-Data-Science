@@ -1,4 +1,4 @@
-<h1 align="center">Fundamentals of Scalable Data Science</h1>
+<h1 align="center">🎓 Fundamentals of Scalable Data Science</h1>
 
 
 <p align="center">
