@@ -1,4 +1,4 @@
-<h1 align="center">Applied AI with Deep Learning</h1>
+<h1 align="center">🎓 Applied AI with Deep Learning</h1>
 
 
 <p align="center">
