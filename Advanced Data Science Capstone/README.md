@@ -1,4 +1,4 @@
-<h1 align="center">Advanced Data Science Capstone</h1>
+<h1 align="center">🎓 Advanced Data Science Capstone</h1>
 
 
 <p align="center">
